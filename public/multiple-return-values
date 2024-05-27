@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: Multiple Return Values</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="multiple-return-values">
-      <h2><a href="./">Go by Example</a>: Multiple Return Values</h2>
+      <h2><a href="./">Go بالأمثله</a>: Multiple Return Values</h2>
       
       <table>
         

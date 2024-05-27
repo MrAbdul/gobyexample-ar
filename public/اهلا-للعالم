@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html dir='rtl'>
+  <head>
+    <meta charset="utf-8">
+    <title>Go by Example: اهلا للعالم</title>
+    <link rel=stylesheet href="site.css">
+  </head>
+  <script>
+      window.onkeydown = (e) => {
+          if (e.ctrlKey || e.altKey || e.shiftKey) {
+              return;
+          }
+          
+          
+          if (e.key == "ArrowRight") {
+              window.location.href = 'values';
+          }
+          
+      }
+  </script>
+  <body>
+    <div class="example" id="اهلا-للعالم">
+      <h2><a href="./">Go بالأمثله</a>: اهلا للعالم</h2>
+      
+      
+      <p class="next">
+        Next example: <a href="values">Values</a>.
+      </p>
+      
+
+    <p class="footer">
+      by <a href="https://markmcgranaghan.com">Mark McGranaghan</a> and <a href="https://eli.thegreenplace.net">Eli Bendersky</a> | <a href="https://github.com/mmcgrana/gobyexample">source</a> | <a href="https://github.com/mmcgrana/gobyexample#license">license</a>
+    </p>
+
+    </div>
+    <script>
+      var codeLines = [];
+      
+    </script>
+    <script src="site.js" async></script>
+  </body>
+</html>

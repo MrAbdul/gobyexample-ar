@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: Enums</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="enums">
-      <h2><a href="./">Go by Example</a>: Enums</h2>
+      <h2><a href="./">Go بالأمثله</a>: Enums</h2>
       
       <table>
         

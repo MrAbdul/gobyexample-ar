@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: File Paths</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="file-paths">
-      <h2><a href="./">Go by Example</a>: File Paths</h2>
+      <h2><a href="./">Go بالأمثله</a>: File Paths</h2>
       
       <table>
         

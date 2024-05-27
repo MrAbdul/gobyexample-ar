@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: If/Else</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="if-else">
-      <h2><a href="./">Go by Example</a>: If/Else</h2>
+      <h2><a href="./">Go بالأمثله</a>: If/Else</h2>
       
       <table>
         

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: Temporary Files and Directories</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="temporary-files-and-directories">
-      <h2><a href="./">Go by Example</a>: Temporary Files and Directories</h2>
+      <h2><a href="./">Go بالأمثله</a>: Temporary Files and Directories</h2>
       
       <table>
         

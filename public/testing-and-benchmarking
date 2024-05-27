@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: Testing and Benchmarking</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="testing-and-benchmarking">
-      <h2><a href="./">Go by Example</a>: Testing and Benchmarking</h2>
+      <h2><a href="./">Go بالأمثله</a>: Testing and Benchmarking</h2>
       
       <table>
         

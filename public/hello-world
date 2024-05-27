@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Hello World</title>
+    <title>Go by Example: اهلا يا عالم</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script>
@@ -20,18 +20,19 @@
   </script>
   <body>
     <div class="example" id="hello-world">
-      <h2><a href="./">Go by Example</a>: Hello World</h2>
+      <h2><a href="./">Go بالأمثله</a>: اهلا يا عالم</h2>
       
       <table>
         
         <tr>
           <td class="docs">
-            <p>Our first program will print the classic &ldquo;hello world&rdquo;
-message. Here&rsquo;s the full source code.</p>
+            <p>اول برنامج في لغة GO <BR></p>
+
+<p>كما تسري العاده عند تعلم لغة برمجه جديد، نكتب برنامج hello world</p>
 
           </td>
           <td class="code leading">
-            <a href="https://go.dev/play/p/NeviD0awXjt"><img title="Run code" src="play.png" class="run" /></a><img title="Copy code" src="clipboard.png" class="copy" />
+            <a href="https://go.dev/play/p/1gV9p9kgSoZ"><img title="Run code" src="play.png" class="run" /></a><img title="Copy code" src="clipboard.png" class="copy" />
           <pre class="chroma"><code><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span></span></span></code></pre>
           </td>
         </tr>
@@ -64,8 +65,8 @@ message. Here&rsquo;s the full source code.</p>
         
         <tr>
           <td class="docs">
-            <p>To run the program, put the code in <code>hello-world.go</code> and
-use <code>go run</code>.</p>
+            <p>لتشغيل البرنامج ضع الكود في &lsquo;hello-world.go&rsquo; <br>
+و من ثم استخدم &lsquo;go run&rsquo;</p>
 
           </td>
           <td class="code leading">
@@ -77,8 +78,8 @@ use <code>go run</code>.</p>
         
         <tr>
           <td class="docs">
-            <p>Sometimes we&rsquo;ll want to build our programs into
-binaries. We can do this using <code>go build</code>.</p>
+            <p>في بعض الحالات نريد بناء برنامجنا الى برنامج &lsquo;binary&rsquo;
+نستطيع القيام بذلك عن طريق &lsquo;go build&rsquo;.</p>
 
           </td>
           <td class="code leading">
@@ -91,7 +92,7 @@ binaries. We can do this using <code>go build</code>.</p>
         
         <tr>
           <td class="docs">
-            <p>We can then execute the built binary directly.</p>
+            <p>من ثم نستطيع تشغيل البرنامج مباشرة</p>
 
           </td>
           <td class="code leading">
@@ -103,8 +104,8 @@ binaries. We can do this using <code>go build</code>.</p>
         
         <tr>
           <td class="docs">
-            <p>Now that we can run and build basic Go programs, let&rsquo;s
-learn more about the language.</p>
+            <p>اصبحنا نعرف كيف نشغل و نبني برنامجنا
+لنستمر بتعلم المزيد عن اللغة</p>
 
           </td>
           <td class="code empty">
@@ -117,7 +118,7 @@ learn more about the language.</p>
       
       
       <p class="next">
-        Next example: <a href="values">Values</a>.
+        المثال التالي: <a href="values">انواع البيانات</a>.
       </p>
       
 

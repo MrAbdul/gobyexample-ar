@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: Values</title>
+    <title>Go by Example: انواع البيانات</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script>
@@ -16,15 +16,11 @@
           }
           
           
-          if (e.key == "ArrowRight") {
-              window.location.href = 'variables';
-          }
-          
       }
   </script>
   <body>
     <div class="example" id="values">
-      <h2><a href="./">Go by Example</a>: Values</h2>
+      <h2><a href="./">Go بالأمثله</a>: انواع البيانات</h2>
       
       <table>
         
@@ -130,10 +126,6 @@ basic examples.</p>
         
       </table>
       
-      
-      <p class="next">
-        Next example: <a href="variables">Variables</a>.
-      </p>
       
 
     <p class="footer">

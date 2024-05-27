@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: Constants</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="constants">
-      <h2><a href="./">Go by Example</a>: Constants</h2>
+      <h2><a href="./">Go بالأمثله</a>: Constants</h2>
       
       <table>
         

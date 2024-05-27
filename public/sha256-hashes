@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: SHA256 Hashes</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="sha256-hashes">
-      <h2><a href="./">Go by Example</a>: SHA256 Hashes</h2>
+      <h2><a href="./">Go بالأمثله</a>: SHA256 Hashes</h2>
       
       <table>
         

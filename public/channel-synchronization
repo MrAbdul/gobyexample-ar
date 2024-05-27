@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html dir='rtl'>
   <head>
     <meta charset="utf-8">
     <title>Go by Example: Channel Synchronization</title>
@@ -24,7 +24,7 @@
   </script>
   <body>
     <div class="example" id="channel-synchronization">
-      <h2><a href="./">Go by Example</a>: Channel Synchronization</h2>
+      <h2><a href="./">Go بالأمثله</a>: Channel Synchronization</h2>
       
       <table>
         

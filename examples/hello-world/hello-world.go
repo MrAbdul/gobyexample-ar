@@ -1,5 +1,6 @@
-// Our first program will print the classic "hello world"
-// message. Here's the full source code.
+//	اول برنامج في لغة GO <BR>
+//
+// كما تسري العاده عند تعلم لغة برمجه جديد، نكتب برنامج hello world
 package main
 
 import "fmt"
