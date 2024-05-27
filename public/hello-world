@@ -2,7 +2,7 @@
 <html dir='rtl'>
   <head>
     <meta charset="utf-8">
-    <title>Go by Example: اهلا يا عالم</title>
+    <title dir='ltr'>Go بالأمثله : &#x202C; اهلا يا عالم &#x202B;</title>
     <link rel=stylesheet href="site.css">
   </head>
   <script>
